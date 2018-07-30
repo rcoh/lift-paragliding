@@ -1,74 +1,36 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: Our School
+image: /img/34583364_2094405390831385_8098196364577472512_n-1-.jpg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: Lift Paragliding offers different lessons packages for different students
 intro:
-  blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+  blurbs: []
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Whether you want to do a 1 day class, or work up to your full certification,
+    you can find the right class with Lift
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: ''
+  description: ''
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: ''
+    image: ''
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: ''
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: ''
+    image: ''
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Daniel Reynaud
     quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
+      I had such a good time! Jesse was ideal as an instructor. He has the
+      perfect temperament!
+  - author: Russell Cohen
     quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      Jesse's a great instructor. He gave me a free wing so I made him this
+      website
+full_image: /img/35972218_1977131992305298_7069904691957596160_o.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -76,27 +38,67 @@ pricing:
     monthly subscription plans to receive great coffee at your doorstep each
     month. Contact us about more details and payment info.
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: >-
+        Your day lesson begins with an equipment introduction and demonstration.
+        You begin ground handling, also known as 'kiting' with the aid of your
+        instructor. We practice inflating and controlling the wing on the
+        ground, learning the launch sequence, discussing the landing, and
+        steering skills before introducing the element of flight.
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - ''
+      plan: 1-Day Intro Lesson
+      price: '200'
+    - description: >-
+        This program includes an introduction to the paraglider and associated
+        equipment, basic weather, and ground handling that will lead to your
+        first low altitude solo flights. This program also consists of ground
+        school on the mechanics, equipment, and techniques involved in
+        paragliding. The course is designed as an introduction to the sport that
+        will enable you to make an educated decision regarding paragliding and
+        you. If you decide to continue with the Novice (P2) program, fees will
+        be applied towards the Novice Certification fee.
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - ''
+      plan: 2-Day Intro Lesson
+      price: '400'
+    - description: >-
+        You have made the decision to become a certified paraglider pilot. This
+        program is an intensive course designed to produce a safe, confident and
+        competent pilot. During this program you will learn about glider
+        aerodynamics, meteorology, thermal flying, ridge soaring, flight
+        maneuvers and emergency procedures. We focus on building your launching,
+        landing and flight techniques through intensive ground handling
+        (kiting), low altitude solo flights, flight simulations and ground
+        schooling. You will complete the USHPA-mandated amount of ground-school
+        time, flights, and flying days. The course length is variable; the
+        average student should expect to spend 7-12 days of training with us.
+        After the completion of the course you will have acquired the skills and
+        knowledge to fly without direct instructor supervision at certain sites.
+        This is the start of your Paragliding career. You will have the greatest
+        success learning to paraglide if you can immerse yourself in the course
+        and then continue flying or kiting regularly after completing your
+        lessons. Private lessons are also available and our fees are structured
+        on an individual basis.
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - Free ground school
+        - Unlimited Lessons within one year
+        - Flight log & instructional
+        - Equipment Discounts
+        - Free P3 and P4 certification!
+        - 1 Tandom 'Buddy Pass'
+        - Continued Education
+      plan: P2 Certification Program
+      price: '1800'
+    - description: >-
+        For those who want to find out what paragliding is all about but not
+        wanting to commit to lessons, we offer instructional tandem flights. The
+        tandem flight consists of a short briefing followed by a pre-determined
+        flight time. If good soaring conditions are not available, the flight
+        will be re-scheduled. During the flight the pilot will explain what he
+        is doing, and allow you some hands-on control of the glider. A tandem
+        flight is best for the person seeking an exciting one-time experience,
+        with minimum commitment.
+      plan: Tandem Instructional Flights
+      price: 100-200
 ---
-
 
