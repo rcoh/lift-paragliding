@@ -2,25 +2,13 @@
 title: Our School
 image: /img/34583364_2094405390831385_8098196364577472512_n-1-.jpg
 heading: What we offer
-description: Lift Paragliding offers different lessons packages for different students
+description: Lift Paragliding offers different lessons packages to best match your goals
 intro:
   blurbs: []
   heading: What we offer
   description: >
     Whether you want to do a 1 day class, or work up to your full certification,
     you can find the right class with Lift
-main:
-  heading: ''
-  description: ''
-  image1:
-    alt: ''
-    image: ''
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: ''
-  image3:
-    alt: ''
-    image: ''
 testimonials:
   - author: Daniel Reynaud
     quote: >-
@@ -32,65 +20,46 @@ testimonials:
       website
 full_image: /img/35972218_1977131992305298_7069904691957596160_o.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Lesson Packages
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Lift offers different lesson packages ranging from our 1 and 2 day lessons to get your feet wet to our full P2 certification program.
   plans:
     - description: >-
-        Your day lesson begins with an equipment introduction and demonstration.
-        You begin ground handling, also known as 'kiting' with the aid of your
-        instructor. We practice inflating and controlling the wing on the
-        ground, learning the launch sequence, discussing the landing, and
-        steering skills before introducing the element of flight.
+        A one day intro lesson that's a great way to get your feet wet.
       items:
-        - ''
+      - 'Learn to inflate and control the paraglider on the ground'
+      - 'Learn to launch, land, and steer your paraglider off the 50 foot hill'
       plan: 1-Day Intro Lesson
       price: '200'
     - description: >-
-        This program includes an introduction to the paraglider and associated
-        equipment, basic weather, and ground handling that will lead to your
-        first low altitude solo flights. This program also consists of ground
-        school on the mechanics, equipment, and techniques involved in
-        paragliding. The course is designed as an introduction to the sport that
-        will enable you to make an educated decision regarding paragliding and
-        you. If you decide to continue with the Novice (P2) program, fees will
-        be applied towards the Novice Certification fee.
+        A perfect intro where you'll learn the basics and take your first solo flights.
+        The course will enable you to make an educated decision regarding paragliding and
+        you. 
       items:
-        - ''
+        - 'Ground school'
+        - 'Low altitude solo flights'
+        - 'Cost applied towards P2 program'
       plan: 2-Day Intro Lesson
       price: '400'
     - description: >-
+        Intensive program designed to produce a safe, confident and competent pilot.
+
+
         You have made the decision to become a certified paraglider pilot. This
         program is an intensive course designed to produce a safe, confident and
-        competent pilot. During this program you will learn about glider
-        aerodynamics, meteorology, thermal flying, ridge soaring, flight
-        maneuvers and emergency procedures. We focus on building your launching,
-        landing and flight techniques through intensive ground handling
-        (kiting), low altitude solo flights, flight simulations and ground
-        schooling. You will complete the USHPA-mandated amount of ground-school
-        time, flights, and flying days. The course length is variable; the
-        average student should expect to spend 7-12 days of training with us.
-        After the completion of the course you will have acquired the skills and
-        knowledge to fly without direct instructor supervision at certain sites.
-        This is the start of your Paragliding career. You will have the greatest
-        success learning to paraglide if you can immerse yourself in the course
-        and then continue flying or kiting regularly after completing your
-        lessons. Private lessons are also available and our fees are structured
-        on an individual basis.
+        competent pilot. 
       items:
-        - Free ground school
-        - Unlimited Lessons within one year
-        - Flight log & instructional
+        - 7-12 days of training (unlimited training within one year)
+        - Learn about glider aerodynamics and meteorology
+        - Ground school
         - Equipment Discounts
         - Free P3 and P4 certification!
-        - 1 Tandom 'Buddy Pass'
-        - Continued Education
+        - 1 Tandem 'Buddy Pass'
+        - Continuing Education and mentorship long
       plan: P2 Certification Program
       price: '1800'
     - description: >-
-        For those who want to find out what paragliding is all about but not
+        Find out what paragliding is all about without committing to lessons
         wanting to commit to lessons, we offer instructional tandem flights. The
         tandem flight consists of a short briefing followed by a pre-determined
         flight time. If good soaring conditions are not available, the flight
@@ -98,7 +67,10 @@ pricing:
         is doing, and allow you some hands-on control of the glider. A tandem
         flight is best for the person seeking an exciting one-time experience,
         with minimum commitment.
+        items:
+        - Short briefing
+        - Predetermined flight time (rescheduled if soaring conditions are not available)
+        - Hands-on control of the glider!
       plan: Tandem Instructional Flights
       price: 100-200
 ---
-

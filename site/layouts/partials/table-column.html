@@ -12,6 +12,7 @@
 	<p class="b">{{.description}}</p>
 
 	<!-- Features -->
+	{{ if .items }}
 	<ul>
 		{{ $itemCount := len .items }}
 		{{ range $index, $item := .items }}
@@ -20,5 +21,6 @@
 		</li>
 		{{ end }}
 	</ul>
+	{{ end }}
 
 </div>

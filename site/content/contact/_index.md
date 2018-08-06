@@ -7,4 +7,4 @@ contact_entries:
   - heading: Send us an Email!
     text: jesse@liftparagliding.com
 ---
-We're flying almost day at Ed Levin. Give us a call to schedule your lesson!
+We're flying almost day at Ed Levin. Give us a call to schedule your first lesson!
