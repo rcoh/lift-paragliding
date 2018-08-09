@@ -10,7 +10,7 @@ intro:
   text: >-
     Lift paragldining is the place for your P2, instructional and tandem flights
     blah blah.
-products:
+lessons:
   - image: /img/34583364_2094405390831385_8098196364577472512_n-1-.jpg
     text: P2 Certification
   - image: /img/img_20180724_124410_1.jpg
